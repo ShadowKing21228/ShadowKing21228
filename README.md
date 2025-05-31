@@ -9,6 +9,7 @@ I am a member of [Saudade Studio](https://saudade-studio.ru/index.html), a non-p
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shartyr325@gmail.com) 
+
 CurseForge: [click](https://www.curseforge.com/members/shadowking21/projects)
 
 Modrinth: [click](https://modrinth.com/user/ShadowKing21_)
