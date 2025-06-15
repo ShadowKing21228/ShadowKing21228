@@ -4,9 +4,6 @@ Hi, I'm just a **developer** on Github!
 
 At the same time, I am developing mods and modpacks for Minecraft.
 
-
-I am a member of [Saudade Studio](https://saudade-studio.ru/index.html), a non-profit organization for creating Minecraft modpacks.
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shartyr325@gmail.com) 
 
